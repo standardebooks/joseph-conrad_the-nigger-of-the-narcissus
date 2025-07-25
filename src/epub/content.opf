@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/joseph-conrad/the-nigger-of-the-narcissus</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2025-07-25T14:31:18Z</dc:date>
+		<meta property="dcterms:modified">2025-07-25T14:31:18Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -61,16 +61,16 @@
 		<meta property="authority" refines="#subject-8">LCSH</meta>
 		<meta property="term" refines="#subject-8">sh2007102173</meta>
 		<meta property="se:subject">Fiction</meta>
-		<dc:description id="description">An Afro-Caribbean sailor enlists on the Narcissus but his health soon deteriorates.</dc:description>
+		<dc:description id="description">An Afro-Caribbean sailor enlists on a trading ship bound for London, but his health soon deteriorates.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;James Wait is an Afro-Caribbean sailor who enlists in Bombay on the Narcissus, a trading ship bound for London. His deteriorating health soon becomes a problem for the crew, as they face the perils of their strenuous sea voyage. The forecastle, which contains the crew’s living quarters, becomes the central point of the novel’s narrative.&lt;/p&gt;
-			&lt;p&gt;&lt;i&gt;The Nigger of the Narcissus: A Tale of the Forecastle&lt;/i&gt;, &lt;a href="https://standardebooks.org/ebooks/joseph-conrad"&gt;Joseph Conrad’s&lt;/a&gt; third novel, was serialized in 1897 and published in the same year. Due to its controversial title, it was initially released as &lt;i&gt;The Children of the Sea&lt;/i&gt; in the United States. This production follows the 1914 edition which reverts to the original title and offers an explanation by the author in an introductory note. This introduction is followed by the original preface in which Conrad explains his writing philosophy. Quotes such as “My task which I am trying to achieve is, by the power of the written word to make you hear, to make you feel—it is, before all, to make you see.” have been used by literary scholars as a key to understanding Conrad’s prose.&lt;/p&gt;
+			&lt;p&gt;James Wait is an Afro-Caribbean sailor in Bombay who enlists on the &lt;i&gt;Narcissus&lt;/i&gt;, a trading ship bound for London. His deteriorating health soon becomes a problem for the crew, whose attention is focused on the perils of their strenuous sea voyage. The forecastle, which contains the crew’s living quarters, becomes the narrative’s focal point.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;The Nigger of the Narcissus&lt;/i&gt;, &lt;a href="https://standardebooks.org/ebooks/joseph-conrad"&gt;Joseph Conrad’s&lt;/a&gt; third novel, was serialized in 1897 and published as a book in the same year. Due to its controversial title, it was first published in the United States as &lt;i&gt;The Children of the Sea&lt;/i&gt;, before being published there under its original title in 1914. Its introduction is considered to be one of Conrad’s most important pieces of nonfiction, as in it he explains his philosophy of writing with quotes like “My task which I am trying to achieve is, by the power of the written word to make you hear, to make you feel—it is, before all, to make you see.” The introduction has been employed by literary scholars as a crucial key to understanding Conrad’s artistic vision.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/17731</dc:source>
 		<dc:source>https://archive.org/details/niggernarcissus00conrgoog</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">55351</meta>
+		<meta property="se:reading-ease.flesch">72.97</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Nigger_of_the_Narcissus</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/joseph-conrad_the-nigger-of-the-narcissus</meta>
 		<dc:creator id="author">Joseph Conrad</dc:creator>
@@ -99,6 +99,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Weijia Cheng</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Cheng, Weijia</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://weijiarhymeswith.asia/</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
