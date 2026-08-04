@@ -63,7 +63,7 @@
 		<meta property="authority" refines="#subject-8">LCSH</meta>
 		<meta property="term" refines="#subject-8">sh2007102173</meta>
 		<meta property="schema:genre">Fiction</meta>
-		<dc:abstract>An Afro-Caribbean sailor enlists on a trading ship bound for London, but his health soon deteriorates.</dc:abstract>
+		<meta property="schema:abstract">An Afro-Caribbean sailor enlists on a trading ship bound for London, but his health soon deteriorates.</meta>
 		<dc:description>
 			&lt;p&gt;James Wait is an Afro-Caribbean sailor in Bombay who enlists on the &lt;i&gt;Narcissus&lt;/i&gt;, a trading ship bound for London. His deteriorating health soon becomes a problem for the crew, whose attention is focused on the perils of their strenuous sea voyage. The forecastle, which contains the crew’s living quarters, becomes the narrative’s focal point.&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;The Nigger of the Narcissus&lt;/i&gt;, &lt;a href="https://standardebooks.org/ebooks/joseph-conrad"&gt;Joseph Conrad’s&lt;/a&gt; third novel, was serialized in 1897 and published as a book in the same year. Due to its controversial title, it was first published in the United States as &lt;i&gt;The Children of the Sea&lt;/i&gt;, before being published there under its original title in 1914. Its introduction is considered to be one of Conrad’s most important pieces of nonfiction, as in it he explains his philosophy of writing with quotes like “My task which I am trying to achieve is, by the power of the written word to make you hear, to make you feel—it is, before all, to make you see.” The introduction has been employed by literary scholars as a crucial key to understanding Conrad’s artistic vision.&lt;/p&gt;
