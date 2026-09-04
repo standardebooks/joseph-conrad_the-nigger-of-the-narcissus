@@ -39,13 +39,13 @@
 		<meta property="title-type" refines="#fulltitle">expanded</meta>
 		<meta property="dcterms:alternative" refines="#title">The Children of the Sea</meta>
 		<dc:subject id="subject-1">Sea stories</dc:subject>
-		<dc:subject id="subject-2">London (England) -- Fiction</dc:subject>
+		<dc:subject id="subject-2">London (England)--Fiction</dc:subject>
 		<dc:subject id="subject-3">Psychological fiction</dc:subject>
-		<dc:subject id="subject-4">West Indians -- England -- Fiction</dc:subject>
-		<dc:subject id="subject-5">Tuberculosis -- Patients -- Fiction</dc:subject>
-		<dc:subject id="subject-6">Terminally ill -- Fiction</dc:subject>
-		<dc:subject id="subject-7">Ocean travel -- Fiction</dc:subject>
-		<dc:subject id="subject-8">Black people -- Fiction</dc:subject>
+		<dc:subject id="subject-4">West Indians--England--Fiction</dc:subject>
+		<dc:subject id="subject-5">Tuberculosis--Patients--Fiction</dc:subject>
+		<dc:subject id="subject-6">Terminally ill--Fiction</dc:subject>
+		<dc:subject id="subject-7">Ocean travel--Fiction</dc:subject>
+		<dc:subject id="subject-8">Black people--Fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85119251</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
